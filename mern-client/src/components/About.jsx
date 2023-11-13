@@ -4,7 +4,7 @@ const About = () => {
   return (
     <div className="flex items-center justify-center min-h-screen bg-white">
       <div className="max-w-2xl mx-auto text-center">
-        <h1 className="text-4xl font-bold mb-4 text-blue-700">Welcome to Our Bookstore!</h1>
+        <h1 className="text-4xl font-bold mb-4 text-black-700">Welcome to Our Bookstore!</h1>
         <p className="text-gray-700">
           At bookstore.com, we are on a mission to connect readers with the magic of
           literature. Our online bookstore is a haven for book lovers, offering a carefully
