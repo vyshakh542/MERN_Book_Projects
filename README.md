@@ -12,6 +12,41 @@ Welcome to the **MERN Book Store** project! This full-stack application allows u
 
 ### Getting Started
 
+
+
+## Deployment
+
+To deploy the MERN Book Store project locally, follow these steps:
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/vyshakh542/MERN_Book_Projects.git
+```
+### 2. Navigate to the Project Directory:
+```
+cd MERN_Book_Projects
+```
+
+### 3.  Install Dependencies:
+Client (Frontend)
+Navigate to the client directory:
+```
+cd mern-client
+
+npm install
+```
+
+Server (Backend)
+Navigate to the server directory:
+
+```
+cd mern-server
+
+npm install
+```
+
+
+
 #### Client (Frontend)
 Navigate to the client directory in the terminal:
 ```bash
@@ -61,4 +96,6 @@ http://localhost:5000/all-books
 
 Feel free to explore and enhance the MERN Book Store project further! If you have any questions or feedback, please don't hesitate to reach out. Happy coding!
 
+
+#### Thank you for checking out this project!
 
